@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015743028858",
+    "project_id": "intragram-tt",
+    "storage_bucket": "intragram-tt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015743028858:android:99b50db205ffdd4deda5c3",
+        "android_client_info": {
+          "package_name": "com.example.instragram_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsOpDFQvnm4FK8J97KYnhMhUONLGJqWXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
